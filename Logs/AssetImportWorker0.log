@@ -1,0 +1,329 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 8013 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ggasc/OneDrive/Documentos/Unity Projects/TextTiler
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59518
+Successfully changed project path to: C:/Users/ggasc/OneDrive/Documentos/Unity Projects/TextTiler
+C:/Users/ggasc/OneDrive/Documentos/Unity Projects/TextTiler
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 9.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ggasc/OneDrive/Documentos/Unity Projects/TextTiler/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d13)
+    Vendor:   
+    VRAM:     1983 MB
+    Driver:   27.21.14.6109
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.003890 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 6.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.762 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001253 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.214 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 257 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 31.0 MB.
+System memory in use after: 31.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 686.
+Total: 4.302000 ms (FindLiveObjects: 0.411200 ms CreateObjectMapping: 0.038600 ms MarkObjects: 3.750300 ms  DeleteObjects: 0.098800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/LevelMaker.cs
+  artifactKey: Guid(b985ef8cf534607458f477ef246eea53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelMaker.cs using Guid(b985ef8cf534607458f477ef246eea53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ed30337786f6201821881699b51034') in 0.037631 seconds
+  Import took 0.038644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(37539c9a0d9a7b944b503c86bb4ed22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(37539c9a0d9a7b944b503c86bb4ed22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '246f8b52530ce7c661d42cae201f7fca') in 0.015816 seconds
+  Import took 0.017057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/StandaloneFileBrowser
+  artifactKey: Guid(57e25b4a578dba94c9353f4633b20549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser using Guid(57e25b4a578dba94c9353f4633b20549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c604f598be928b2d6a4ce34deb832882') in 0.026280 seconds
+  Import took 0.027476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.186725 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1631f2babaf5f4762bc51e1e24b5da') in 0.028552 seconds
+  Import took 0.029237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.735018 seconds.
+  path: Assets/StandaloneFileBrowser/Sample/CanvasSampleSaveFileText.cs
+  artifactKey: Guid(8e97f52f0bd664ee78305dae0094a755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Sample/CanvasSampleSaveFileText.cs using Guid(8e97f52f0bd664ee78305dae0094a755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f906b2a9ce8310c481684f0ef8d3538') in 0.040823 seconds
+  Import took 0.048823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041213 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents/Info.plist
+  artifactKey: Guid(ce685769797f44046afa3e567860c94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents/Info.plist using Guid(ce685769797f44046afa3e567860c94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9ceed93433fc85b6adfe3553a7c870') in 0.320739 seconds
+  Import took 0.322131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019512 seconds.
+  path: Assets/StandaloneFileBrowser/Sample/BasicSample.cs
+  artifactKey: Guid(5148400295519405d82bb0fa65246ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Sample/BasicSample.cs using Guid(5148400295519405d82bb0fa65246ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '235efd99a17756efce54c7a9e267cba5') in 0.032275 seconds
+  Import took 0.033616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017771 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins/Linux
+  artifactKey: Guid(82666e520ab4d4cf08bebbb8059cd6f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins/Linux using Guid(82666e520ab4d4cf08bebbb8059cd6f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96aee94fcbe1ac94cf7a4b6cd3b7087b') in 0.013396 seconds
+  Import took 0.014609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010928 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins/Linux/x86_64/libStandaloneFileBrowser.so
+  artifactKey: Guid(b8c465928f1784a3fac8dc3766f7201c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins/Linux/x86_64/libStandaloneFileBrowser.so using Guid(b8c465928f1784a3fac8dc3766f7201c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0027580eec2f73dcc9618792f53731df') in 0.012338 seconds
+  Import took 0.013392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009203 seconds.
+  path: Assets/StandaloneFileBrowser/IStandaloneFileBrowser.cs
+  artifactKey: Guid(7609f7b6787a54496aa41a3053fcc76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/IStandaloneFileBrowser.cs using Guid(7609f7b6787a54496aa41a3053fcc76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '133466e3ae5214c7fbfba46183b810b9') in 0.010146 seconds
+  Import took 0.010965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017526 seconds.
+  path: Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileTextMultiple.cs
+  artifactKey: Guid(71c09849449d61e47a4599e06b964998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileTextMultiple.cs using Guid(71c09849449d61e47a4599e06b964998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '556a94a057196d7268d2fb366ade3c33') in 0.013882 seconds
+  Import took 0.015133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014840 seconds.
+  path: Assets/StandaloneFileBrowser/Sample/CanvasSampleScene.unity
+  artifactKey: Guid(c0e4eec5741834194a946535d535405c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Sample/CanvasSampleScene.unity using Guid(c0e4eec5741834194a946535d535405c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8353e3957576ef3fca9111c9077f7e') in 0.014074 seconds
+  Import took 0.015234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021334 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.jslib
+  artifactKey: Guid(265aaf20a6d564e0fb00a9c4a7a9c300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.jslib using Guid(265aaf20a6d564e0fb00a9c4a7a9c300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68091888ea9b0f8bde751340d0ac54d0') in 0.011114 seconds
+  Import took 0.012281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016856 seconds.
+  path: Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileImage.cs
+  artifactKey: Guid(331c95b7bf39e4792acecff50a972040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileImage.cs using Guid(331c95b7bf39e4792acecff50a972040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4234e563a0166b65b223c45e1db5b4') in 0.010337 seconds
+  Import took 0.011256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007655 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins/Ookii.Dialogs.dll
+  artifactKey: Guid(e60958662eed5413d86143a0a69b731e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins/Ookii.Dialogs.dll using Guid(e60958662eed5413d86143a0a69b731e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c96f24d8a652c749c139e5b6713fa338') in 0.018930 seconds
+  Import took 0.020458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006329 seconds.
+  path: Assets/StandaloneFileBrowser/StandaloneFileBrowserEditor.cs
+  artifactKey: Guid(2650af8de2cda46b99b1bc7cf5d30ca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/StandaloneFileBrowserEditor.cs using Guid(2650af8de2cda46b99b1bc7cf5d30ca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f677ad5220baf984ce745cf87b66ff') in 0.015079 seconds
+  Import took 0.016094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009762 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents/MacOS
+  artifactKey: Guid(a5a66f5db020f344c9327188aec2c060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents/MacOS using Guid(a5a66f5db020f344c9327188aec2c060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ca46ed8ef634c46eefa22e7f9a3173') in 0.010455 seconds
+  Import took 0.011375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009288 seconds.
+  path: Assets/StandaloneFileBrowser/StandaloneFileBrowserMac.cs
+  artifactKey: Guid(bcb49ddb0ed5644fda9c3b055cafa27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/StandaloneFileBrowserMac.cs using Guid(bcb49ddb0ed5644fda9c3b055cafa27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03dd4f4bb42b499197c4182087d1049a') in 0.009046 seconds
+  Import took 0.009883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014916 seconds.
+  path: Assets/StandaloneFileBrowser/Sample/BasicSampleScene.unity
+  artifactKey: Guid(d97280fe82b874466870f709c3315d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Sample/BasicSampleScene.unity using Guid(d97280fe82b874466870f709c3315d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a9f509c8fde0ba53d59c6900bce9cc') in 0.011242 seconds
+  Import took 0.012215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016678 seconds.
+  path: Assets/StandaloneFileBrowser/Sample
+  artifactKey: Guid(435c74f62ab57b448adeeb37cbc0f96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Sample using Guid(435c74f62ab57b448adeeb37cbc0f96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c65a502c634327b66ff0a289986bd1') in 0.011824 seconds
+  Import took 0.012641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008337 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle
+  artifactKey: Guid(110fdfb459db4fc448a2ccd37e200fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle using Guid(110fdfb459db4fc448a2ccd37e200fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8c88029a8ee015d86e748b9916d957') in 0.015116 seconds
+  Import took 0.016142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010496 seconds.
+  path: Assets/StandaloneFileBrowser/StandaloneFileBrowser.cs
+  artifactKey: Guid(3c708be74128e4ced9b79eaaf80e8443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/StandaloneFileBrowser.cs using Guid(3c708be74128e4ced9b79eaaf80e8443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f176d3956d4c84297bc8e5cb0a82742') in 0.003571 seconds
+  Import took 0.004411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005392 seconds.
+  path: Assets/StandaloneFileBrowser/Sample/CanvasSampleSaveFileImage.cs
+  artifactKey: Guid(6e681018aa67241a69b8447678ec3b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Sample/CanvasSampleSaveFileImage.cs using Guid(6e681018aa67241a69b8447678ec3b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09aec63bd0a39351f029a4b777218b54') in 0.011242 seconds
+  Import took 0.012114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013532 seconds.
+  path: Assets/StandaloneFileBrowser/StandaloneFileBrowserWindows.cs
+  artifactKey: Guid(194e247414a78461d83ae606c1b96917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/StandaloneFileBrowserWindows.cs using Guid(194e247414a78461d83ae606c1b96917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dc75a512560f36dbfd1239ecebfda84') in 0.010407 seconds
+  Import took 0.011232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014071 seconds.
+  path: Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileText.cs
+  artifactKey: Guid(99a65d6437df64949b37cba4eadc67a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileText.cs using Guid(99a65d6437df64949b37cba4eadc67a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0481885b1d6f3258aaa611725ec64b5c') in 0.015645 seconds
+  Import took 0.018172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015911 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents/MacOS/StandaloneFileBrowser
+  artifactKey: Guid(ddf122e0e89124ce78aacfeecb3ec554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents/MacOS/StandaloneFileBrowser using Guid(ddf122e0e89124ce78aacfeecb3ec554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31cd75b83059896f90446694c240a200') in 0.005433 seconds
+  Import took 0.006387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023755 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents
+  artifactKey: Guid(996ea0b0fb9804844ba9595686ee3e7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents using Guid(996ea0b0fb9804844ba9595686ee3e7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '568ce847d0be7bfe45ff0e01349516c0') in 0.014664 seconds
+  Import took 0.015944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010303 seconds.
+  path: Assets/StandaloneFileBrowser/StandaloneFileBrowserLinux.cs
+  artifactKey: Guid(5d3a668018554b8a89c3fe12de72b60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/StandaloneFileBrowserLinux.cs using Guid(5d3a668018554b8a89c3fe12de72b60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2a2f2a4f194df9c99b36a5df640d9c') in 0.011281 seconds
+  Import took 0.012615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019134 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins/System.Windows.Forms.dll
+  artifactKey: Guid(7d459a96865cc4aaab657012c6dc4833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins/System.Windows.Forms.dll using Guid(7d459a96865cc4aaab657012c6dc4833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90423f1219188cd07f73ce000e4c5741') in 0.009113 seconds
+  Import took 0.010352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019966 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins
+  artifactKey: Guid(ddc4e7b83981f244ba9a26b88c18cb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins using Guid(ddc4e7b83981f244ba9a26b88c18cb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eabdbf386146eac112d06db46980512b') in 0.010092 seconds
+  Import took 0.011126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020440 seconds.
+  path: Assets/StandaloneFileBrowser/Plugins/Linux/x86_64
+  artifactKey: Guid(bd198408642944765b9305bd99404136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandaloneFileBrowser/Plugins/Linux/x86_64 using Guid(bd198408642944765b9305bd99404136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1981b5004f12a913f35b8f50f1a74149') in 0.009831 seconds
+  Import took 0.011160 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
